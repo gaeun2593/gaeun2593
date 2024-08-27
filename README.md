@@ -1,5 +1,6 @@
-## Hi! I'm Gaeun 👋
-
+## Hi! I'm gaeuni 👋
+Name: Gaeun kim
+Birth: 2001.04.15
 <!--
 **gaeun2593/gaeun2593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

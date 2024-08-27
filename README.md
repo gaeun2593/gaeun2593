@@ -1,4 +1,4 @@
-## Hi! I'm gaeuni 👋
+## Hi! I'm gaeunii 👋
 - Name: Gaeun kim
 - Birth: 2001.04.15
 <!--
